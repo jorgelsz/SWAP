@@ -1,4 +1,4 @@
-# Práctica 4
+# Práctica 5
 
 ## ¿Qué hemos hecho?
 El objetivo de esta práctica ha sido trabajar y familiarizarnos con el uso de bases de datos MySQL.
